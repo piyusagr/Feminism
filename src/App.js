@@ -7,7 +7,7 @@ function App() {
       <nav className="navbar navbar-expand-lg navbar-light back fixed-top">
         <div className="container-fluid">
           <img src="femini.png" alt="" width="54" height="64" className="d-inline-block align-text-top rounded-circle" />
-          <a className="navbar-brand fs-1" href="#"><b>Feminism</b></a>
+          <a className="navbar-brand fs-1" href="#Home"><b>Feminism</b></a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>

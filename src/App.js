@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import feminism from "./feminism.jpg";
+import feminism from "./feminisms.jpg";
 function App() {
   return (
     <div className="back text-secondary">
@@ -20,10 +20,10 @@ function App() {
                 <a className="nav-link" href="#about">About</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#contact">Contact</a>
+                <a className="nav-link" href="#program"> Our Program</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#program"> Our Program</a>
+                <a className="nav-link" href="#contact">Contact</a>
               </li>
 
             </ul>
